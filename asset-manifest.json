@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comrade-admin/TextUtils-React/static/css/main.2543b9d3.css",
+    "main.js": "/comrade-admin/TextUtils-React/static/js/main.eaeb7273.js",
+    "static/js/787.719ec76d.chunk.js": "/comrade-admin/TextUtils-React/static/js/787.719ec76d.chunk.js",
+    "index.html": "/comrade-admin/TextUtils-React/index.html",
+    "main.2543b9d3.css.map": "/comrade-admin/TextUtils-React/static/css/main.2543b9d3.css.map",
+    "main.eaeb7273.js.map": "/comrade-admin/TextUtils-React/static/js/main.eaeb7273.js.map",
+    "787.719ec76d.chunk.js.map": "/comrade-admin/TextUtils-React/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.eaeb7273.js"
+  ]
+}
